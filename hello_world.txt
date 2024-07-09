@@ -1,0 +1,6 @@
+I initially started coding in Python, now I am learning Data Science and A.I. init 
+to help my research abilities.
+But now I am learning Web-Dev to earn some 'extra' knowledge and money!
+Hence, this are my method for saying you hello :- 
+print('Hello, World!')  <-- by python3.12
+alert('Hello, World!'); console.log('Hello, World!') <-- by JavaScript ES14
