@@ -1,0 +1,23 @@
+Git is helpful for me in 2 ways! 
+    i. It makes me a better collaborator
+    ii. I can use it to keep track of all my personal project and commitments 
+
+3 helpful practices are:- 
+    i. to never edit files directly from GitHub
+        a. Bring the files to the local computer.
+        b. Change, stage, commit, push! 
+    ii. using Atomic commits
+    iii. Leveraging the Atomic commits of others to do any further enquiry 
+
+Q. What is an Atomic commit?
+Ans == changes relating to only one specific feature of the entire project
+    Why?
+    So as:- 
+    i. to know which commit has created problems in your code + revert it easily
+    ii. I will horn my commiting abilities
+        Why?
+        Cause a project is made up of many small small features
+        And when I will be adding those, all I will do is to explain that single feature
+        in detail! 
+
+        It will also help me understand my own workflow well!
